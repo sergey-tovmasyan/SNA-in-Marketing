@@ -1,1 +1,4 @@
 # SNA-in-Marketing
+The goal of this project is to detect the target group of the customers. The budget is limited and the marketing specialist has to decide whom to target. 
+1) connections.txt file is a data showing the list of edges. 
+2) SNA.ipynb file creates a directed graph and shows the nodesthat are bridges. It shows the density of the graph, the nodes with highest and lowest number of connections, the highest closeness, betweenness and eigenvector of the nodes. After, communities are created, presenting the largest and the smallest ones. There are some visualizations based on the top 3 largest communities. 
